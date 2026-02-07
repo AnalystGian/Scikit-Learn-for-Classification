@@ -1,1 +1,14 @@
 # Scikit-Learn-for-Classification
+
+In this project, we will build and train classifier models using Scikit-Learn library. Scikit-learn is a free machine learning library developed for python. Scikit-learn offers several algorithms for classification, regression, and clustering.
+
+# PROJECT STRUCTURE:
+This project is divided into different tasks:
+
+TASK 1: UNDERSTAND THE PROBLEM STATEMENT AND BUSINESS CASE
+TASK 2: IMPORT LIBRARIES AND DATASETS
+TASK 3: PERFORM EXPLORATORY DATA ANALYSIS
+TASK 4: CREATE TRAINING AND TESTING DATASET
+TASK 5: UNDERSTAND XG-BOOST ALGORITHM TO SOLVE CLASSIFICATION TYPE PROBLEMS
+TASK 6: TRAIN AN XG-BOOST CLASSIFIER IN SKLEARN
+TASK 7: TEST XG-BOOST CLASSIFIER TO PERFORM INFERENCE
